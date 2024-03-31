@@ -1,6 +1,6 @@
 # Odin recipes
 
--> Website link : ........
+-> Website link : [Odin Recipes](https://abdullahhamadax.github.io/odin-recipes/)
 
 
 # Explanation
