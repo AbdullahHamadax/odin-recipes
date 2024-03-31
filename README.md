@@ -9,5 +9,4 @@ This is a very basic project with 3 paged-recipes within The Odin Project curric
 
 # Skills I learnt
 
--> HTML
--> CSS
+HTML -> CSS
