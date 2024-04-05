@@ -1,0 +1,30 @@
+.hamburger {
+  background-color: yellow;
+  font-size: 35px;
+}
+.koshari {
+  background-color: burlywood;
+  font-size: 35px;
+}
+
+.hawawshi {
+  background-color: green;
+  font-size: 35px;
+}
+
+h2 {
+  background-color: aqua;
+  font-size: 25px;
+  font-weight: 800;
+}   
+
+* {
+  font: 1em sans-serif;
+  font-weight: 600;
+}
+
+img {
+  border: 20px;
+  border-style: solid;
+  border-color: red;
+}
