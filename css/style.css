@@ -9,13 +9,16 @@ h1 {
 img {
   width: 500px;
   height: auto;
-  border: 2px solid red;
+  border: 20px solid burlywood;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
 }
 
 h1 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.hamburger h1 {
-  background-color: yellow;
+.recipes {
+  border: 12px solid burlywood;
 }
